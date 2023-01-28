@@ -1,6 +1,6 @@
 <template>
     <div>
-        这里是博客内容
+        这里是菜单内容区
     </div>
 </template>
 
